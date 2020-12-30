@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of California, Berkeley
-    year: 2021
+    year: In Progress
   - course: MA in Psychology
     institution: University of California, Berkeley
     year: 2018
