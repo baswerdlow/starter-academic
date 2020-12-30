@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "bswerdlow@berkeley.edu"
@@ -70,4 +70,4 @@ highlight_name: true
 
 Benjamin A. Swerdlow is a sixth-year doctoral candidate affiliated with the CALM Program at the University of California, Berkeley. As a clinical affective scientist, his research interests include research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods.  
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume. pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume. pdf" "newtab" >}}CV{{< /staticref >}}.
