@@ -70,4 +70,4 @@ highlight_name: true
 
 Benjamin A. Swerdlow is a sixth-year doctoral candidate affiliated with the CALM Program at the University of California, Berkeley. As a clinical affective scientist, his research interests include research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
