@@ -46,9 +46,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/benjaminswerdl1
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=-Xffb20AAAAJ&hl=en
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://osf.io/cy5j2
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
