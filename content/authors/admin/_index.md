@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of California, Berkeley
-    year: In Progress
+    year: 2021
   - course: MA in Psychology
     institution: University of California, Berkeley
     year: 2018
@@ -53,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "bswerdlow@berkeley.edu"
