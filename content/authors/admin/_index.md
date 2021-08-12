@@ -18,9 +18,13 @@ bio: As a clinical affective scientist, my research interests include intraperso
 
 # Interests to show in About widget
 interests:
-- Interpersonal Emotion Regulation
+- Clinical Science
+- Affective Science
 - Close Relationships
+- (Interpersonal) Emotion Regulation
+- Suicidal and Non-Suicidal Self-Injury
 - Ecological Sampling Methods
+- Temporal Dynamics
 
 # Education to show in About widget
 education:
@@ -68,4 +72,4 @@ email: "bswerdlow@berkeley.edu"
 highlight_name: true
 ---
 
-Benjamin A. Swerdlow is a sixth-year doctoral candidate affiliated with the CALM Program at the University of California, Berkeley. As a clinical affective scientist, his research interests include research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods.  
+Benjamin A. Swerdlow is a doctoral candidate affiliated with the CALM Program at the University of California, Berkeley. He is currently completing his clinical internship at Dartmouth Hitchcock Medical Center in Lebanon, NH. As a clinical affective scientist, his research interests include research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods.  
