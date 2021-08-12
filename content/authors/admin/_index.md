@@ -18,11 +18,9 @@ bio: As a clinical affective scientist, my research interests include intraperso
 
 # Interests to show in About widget
 interests:
-- Clinical Science
-- Affective Science
+- Emotion Regulation
 - Close Relationships
-- (Interpersonal) Emotion Regulation
-- Suicidal and Non-Suicidal Self-Injury
+- Self-Injury
 - Ecological Sampling Methods
 - Temporal Dynamics
 
