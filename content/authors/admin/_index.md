@@ -6,12 +6,12 @@ title: Benjamin A. Swerdlow
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate, Clinical Science
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Berkeley
-  url: https://calm.berkeley.edu
+- name: Lake Forest College, Department of Psychology
+  url: https://www.lakeforest.edu/academics/majors-and-minors/psychology
 
 # Short bio (displayed in user profile at end of posts)
 bio: As a clinical affective scientist, my research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods. 
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of California, Berkeley
-    year: In Progress
+    year: 2022
   - course: MA in Psychology
     institution: University of California, Berkeley
     year: 2018
@@ -70,4 +70,4 @@ email: "bswerdlow@berkeley.edu"
 highlight_name: true
 ---
 
-Benjamin A. Swerdlow is a doctoral candidate affiliated with the CALM Program at the University of California, Berkeley. He is currently completing his clinical internship at Dartmouth Hitchcock Medical Center in Lebanon, NH. As a clinical affective scientist, his research interests include research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods.  
+Benjamin A. Swerdlow is an incoming assistant professor in the Lake Forest College Department of Psychology. He completed his doctoral training at the University of California, Berkeley and his predoctoral clinical internship at Dartmouth Hitchcock Medical Center. As a clinical affective scientist, his research interests include research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods.  
