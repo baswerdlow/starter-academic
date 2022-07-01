@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multivariate associations of ideal affect with clinical symptoms.
+title: Multivariate associations of ideal affect with clinical symptoms
 subtitle: ''
 summary: ''
 authors:
