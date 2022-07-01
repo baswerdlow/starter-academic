@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'The Interpersonal Regulation Interaction Scale (IRIS): A multistudy investigation
-  of receivers’ retrospective evaluations of interpersonal emotion regulation interactions.'
+  of receivers’ retrospective evaluations of interpersonal emotion regulation interactions'
 subtitle: ''
 summary: ''
 authors:

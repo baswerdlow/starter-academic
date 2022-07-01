@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Emotion‐related impulsivity and rumination
-subtitle: Unique and conjoint effects on suicidal ideation, suicide attempts, and nonsuicidal self‐injury across two samples
+title: 'Emotion‐related impulsivity and rumination: Unique and conjoint effects on suicidal ideation, suicide attempts, and nonsuicidal self‐injury across two samples'
+subtitle: ''
 summary: ''
 authors:
 - Sheri L. Johnson

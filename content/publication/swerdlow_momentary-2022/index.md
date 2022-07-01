@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Momentary emotion goals and spontaneous emotion regulation in daily life
-subtitle: An ecological momentary assessment study of desire for high versus low arousal positive emotion
+title: 'Momentary emotion goals and spontaneous emotion regulation in daily life: An ecological momentary assessment study of desire for high versus low arousal positive emotion'
+subtitle: ''
 summary: ''
 authors:
 - Benjamin A. Swerdlow
@@ -11,7 +11,7 @@ authors:
 - Sheri L. Johnson
 tags: []
 categories: []
-date: '2022-06'
+date: '2022-06-01'
 lastmod: 2020-12-30T13:43:57-05:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06'
+publishDate: '2022-06-01'
 publication_types:
 - '2'
 abstract: ''

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Emotion dysregulation mediates the relationship between lifetime cumulative
-  adversity and depressive symptomatology
+title: 'Emotion dysregulation mediates the relationship between lifetime cumulative
+  adversity and depressive symptomatology'
 subtitle: ''
 summary: ''
 authors:

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title:  Social dominance and multiple dimensions of psychopathology
-subtitle: An experimental test of reactivity to leadership and subordinate roles
+title:  'Social dominance and multiple dimensions of psychopathology: An experimental test of reactivity to leadership and subordinate roles'
+subtitle: ''
 summary: ''
 authors:
 - Sheri L. Johnson

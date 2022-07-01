@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Longitudinal associations between internalizing symptoms, social behavior, and social perceptions in the initial months of the COVID-19 pandemic'
-subtitle: 'Findings from a transdiagnostic community sample '
+title: 'Longitudinal associations between internalizing symptoms, social behavior, and social perceptions in the initial months of the COVID-19 pandemic: Findings from a transdiagnostic community sample'
+subtitle: ''
 summary: ''
 authors:
 - Benjamin A. Swerdlow
