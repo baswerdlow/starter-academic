@@ -64,10 +64,10 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bswerdlow@berkeley.edu"
+email: "bswerdlow@mx.lakeforest.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Benjamin A. Swerdlow is an incoming assistant professor in the Lake Forest College Department of Psychology. He completed his doctoral training at the University of California, Berkeley and his predoctoral clinical internship at Dartmouth Hitchcock Medical Center. As a clinical affective scientist, his research interests include research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods.  
+Benjamin A. Swerdlow is an incoming assistant professor in the Lake Forest College Department of Psychology. He completed his doctoral training in clinical psychology at the University of California, Berkeley and his predoctoral clinical internship at Dartmouth-Hitchcock Medical Center. As a clinical affective scientist, his research interests include intrapersonal and interpersonal emotion regulation, mood dysregulation, self-harm, close relationships, and ecological sampling methods.  
